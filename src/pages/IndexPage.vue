@@ -4,8 +4,8 @@
       <div class="heroSection__content container q-mb-xl">
         <div class="row full-width q-mb-xl">
           <div class="col-12 col-md-6 vertical-middle self-center">
-            <h2 class="text-h3 text-white text-weight-medium fredoka">System Name!</h2>
-            <h4 class="text-h5 text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
+            <h2 class="text-h3 text-white text-weight-medium fredoka">Boka16Q</h2>
+            <h4 class="text-h5 text-white">Bilaterales Audio von einer mp3-Datei</h4>
             <q-btn
               class="text-black"
               unelevated

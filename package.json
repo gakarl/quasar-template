@@ -1,9 +1,9 @@
 {
-  "name": "quasar-template",
+  "name": "Boka16Q",
   "version": "0.0.1",
-  "description": "A Quasar Template",
-  "productName": "Quasar Template",
-  "author": "Joabson Arley <joabsonlg918@gmail.com>",
+  "description": "Bilateral audio for EMDR",
+  "productName": "Boka16Q",
+  "author": "Gerhard Karl <gkarl@gkarl.de>",
   "private": true,
   "scripts": {
     "start": "quasar dev",
