@@ -3,7 +3,7 @@
     <q-card class="q-mt-sm">
       <q-card-section>
         <div class="text-h6">Componentes básicos</div>
-        <div class="text-subtitle2">by Joabson Arley</div>
+        <div class="text-subtitle2">by Gerhard Karl</div>
       </q-card-section>
 
       <q-card-section class="q-pt-none">

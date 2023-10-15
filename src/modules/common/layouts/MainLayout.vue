@@ -13,7 +13,7 @@
           v-if="isSeller"
         />
         <div class="text-white fredoka text-h6">
-          <router-link class="text-primary q-mx-lg" style="text-decoration: none" to="/">System Name
+          <router-link class="text-primary q-mx-lg" style="text-decoration: none" to="/">Boka16Q
           </router-link>
         </div>
         <q-space/>
@@ -94,7 +94,7 @@
         <br/>
 
         <div class="text-body1 q-mt-sm text-grey-8 text-weight-bold">
-          © 2020 Workflow, Inc. All rights reserved.
+          © 2023 KarlWare. All rights reserved.
         </div>
       </div>
     </div>

@@ -108,22 +108,7 @@
         style="border-top: 2px solid #0cbcbc; background-color: #263238"
       >
         <div class="q-pa-md q-gutter-sm">
-          <q-btn
-            round
-            type="a"
-            href="https://www.instagram.com/joabson_arley/"
-            class="bg-primary text-white"
-            icon="fab fa-instagram"
-            target="_blank"
-          />
-          <q-btn
-            round
-            type="a"
-            href="https://github.com/joabsonlg/"
-            class="bg-primary text-white"
-            icon="fab fa-github"
-            target="_blank"
-          />
+          copyright (c) 2023, KarlWare / emdrgeraete.de, Gerhard Karl
           <q-btn
             round
             type="a"

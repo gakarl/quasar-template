@@ -13,7 +13,7 @@
 
         <q-toolbar-title>
           <router-link to="/" style="text-decoration: none; cursor: pointer" class="text-white">
-            System Name
+            Boka16Q
           </router-link>
         </q-toolbar-title>
 
